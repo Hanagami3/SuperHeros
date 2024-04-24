@@ -1,0 +1,92 @@
+
+header{
+    border-bottom: dotted red ;
+}
+
+ul{
+    list-style-image: url(../../afbeeldingen/listIcon.png);
+}
+
+a{
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.imageMenu{
+    display: flex;
+    padding: 3% 50%  ;
+}
+.man h2{
+    text-decoration: red wavy underline;
+}
+
+body{
+    background-color: lightyellow;
+}
+
+article{
+    background-color: rgba(255, 145, 0, .25);
+    border: darkred solid 1px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px ;
+    margin: 20px;
+    margin-bottom: 30px;
+}
+
+article p{
+    margin: 10px;
+    margin-bottom: 30px;
+}
+
+.wonderWoman{
+    color: black;
+    font-weight: normal;
+}
+
+.spiderMan{
+    color: black;
+    font-style: normal;
+    font-weight: normal;
+    background-color: yellow;
+}
+
+body span{
+    color: red ; 
+    font-weight: bold;
+    font-style: italic;
+    
+}
+
+
+article img{
+    float: left;
+    height: 300px;;
+    margin: 20px;
+}
+
+.intro img{
+    float: right;
+    height: 150px;
+}
+
+.stardust img{
+    height: 200px;
+}
+
+
+h2, h3{
+    margin: 20px 10px;
+}
+footer{
+    border-top: dotted red ;
+    text-align: center;
+}
+
+footer p span{
+    color: black;
+    font-weight: normal;
+    border-bottom: dotted;
+    font-style: normal;
+}
